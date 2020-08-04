@@ -1,4 +1,4 @@
-Making a change to test githook
+Testing githook
 
 # cicd-pipeline-train-schedule-jenkins
 
